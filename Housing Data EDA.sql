@@ -274,6 +274,6 @@ WHERE SaleDate LIKE 'April%'
 
 -- Convert m d,yyyy to dd-m-yy
 -- Using Python
--- Code in change_date_format(.ipynb)
+-- Code in Housing_Data_change_date_format(.ipynb)
 
 
